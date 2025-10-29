@@ -5,7 +5,7 @@ SELECT *
 FROM casestudy.brightcoffee.shopsales
 LIMIT 50;
 
--- Checking yhe number of coffee shops
+-- Checking the number of coffee shops
 SELECT DISTINCT store_location
 FROM casestudy.brightcoffee.shopsales;
 
