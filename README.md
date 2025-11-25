@@ -14,6 +14,8 @@ Excel – Used to visualize the results from Snowflake. I created pivot tables a
 
 Canva – Used to design a presentation that visually communicates the findings to the CEO in a clear and engaging way.
 
+Google Looker - Used to turn raw data data into interactive dashboards and automated reports, making insights easy to visualize.
+
 # 📊 Key Findings
 The analysis revealed several important insights:
 
